@@ -1,5 +1,5 @@
 # ✈️ Flight Fare Analysis Dashboard 🛫
-* 🚀 Unlock insights into flight pricing, sales trends, and airline performance! This interactive dashboard provides a data-driven overview of airfare trends, top-performing airlines, ticket pricing, and class-wise contributions.
+### 🚀 Unlock insights into flight pricing, sales trends, and airline performance! This interactive dashboard provides a data-driven overview of airfare trends, top-performing airlines, ticket pricing, and class-wise contributions.
 
 ### 📊 Dashboard Overview
 ### 🏆 Key Highlights
